@@ -44,11 +44,11 @@ global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/mhdfakri_"
+global.urlnya = "https://www.instagram.com/x_pramaya_x"
 
 //============= callButtons =============//
 global.dtc = 'RUN BOT'
-global.phn = 'Wa.me/62895327934887?text=jasarunbot'
+global.phn = 'Wa.me/94770611075?text=jasarunbot'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -63,7 +63,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy KrizynOfc'
+        global.colong2 = 'ʙy Pramaya'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
